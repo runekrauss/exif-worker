@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form addrulepath="/administrator/components/com_exifworker/models/rules"> 
+	<fieldset>
+		<field
+			name="imageName"
+			type="text"
+			size="32"
+			class="inputbox validate-imageName"
+			validate="imageName"
+			required="true"
+			default=""
+			label="COM_EXIFWORKER_EXIFWORKERADD_TMPL_IMAGENAME"
+			description="COM_EXIFWORKER_EXIFWORKERADD_TMPL_IMAGENAME_DESC"
+		/>
+		<field
+			name="addImage"
+			type="file"
+			size="32"
+			class="inputbox validate-addImage"
+			validate="addImage"
+			required="true"
+			default=""
+			label="COM_EXIFWORKER_EXIFWORKERADD_TMPL_ADDIMAGE"
+			description="COM_EXIFWORKER_EXIFWORKERADD_TMPL_ADDIMAGE_DESC"
+		/>
+	</fieldset>
+</form>
