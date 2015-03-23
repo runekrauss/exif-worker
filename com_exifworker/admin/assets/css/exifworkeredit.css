@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+
+.exifworkereditLeft {
+	width: 30%;
+	float: left;
+}
+
+.exifworkereditRight {
+	width: 70%;
+	margin-top: 58px;
+	float: left;
+}
+
+label {
+	width: 220px;
+}
+
+/*
+ * Media-Query for Responsive Webdesign
+*/
+@media ( max-width : 820px) {
+	.exifworkereditRight {
+		width: auto;
+		float: left;
+		margin-top: 0px;
+	}
+	.exifworkereditLeft {
+		width: auto;
+		float: none;
+	}
+	#map {
+		width: 200px;
+		height: 200px;
+		position: relative;
+		top: 500px;
+	}
+	#nomap {
+		width: 200px;
+		height: 200px;
+		position: relative;
+		top: 500px;
+	}
+}
+
+#nomap {
+	width: 200px;
+	height: 200px;
+	margin-top: 180px;
+}
+
+/*
+ * Attributes for Google Maps
+*/
+#map {
+	width: 200px;
+	height: 200px;
+	margin-top: 180px;
+}
