@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<metadata>
+	<layout title="COM_EXIFWORKER_EXIFWORKER_VIEW_DEFAULT_TITLE">
+		<message>COM_EXIFWORKER_EXIFWORKER_VIEW_DEFAULT_DESC</message>
+	</layout>
+	<!-- <fields name="request"> <fieldset name="request"> <field name="id" 
+		type="list" label="COM_EXIFWORKER_EXIFWORKER_FIELD_ID_LABEL" description="COM_EXIFWORKER_EXIFWORKER_FIELD_ID_DESC" 
+		default="1"> <option value="1">COM_EXIFWORKER_OPTION_1</option> <option value="2">COM_EXIFWORKER_OPTION_2</option> 
+		</field> </fieldset> </fields> -->
+</metadata>
