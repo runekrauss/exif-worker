@@ -7,7 +7,6 @@ defined ( '_JEXEC' ) or die ( 'Restricted access' );
  *
  * @author Rune Krauss
  * @version 1.0
- * @since 2015
  * @copyright (c) by Rune Krauss
  */
 class com_exifworkerInstallerScript {
