@@ -1,4 +1,4 @@
-exifWorker
+Exif Worker
 ============
 
 # Description
